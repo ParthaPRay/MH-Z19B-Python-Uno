@@ -29,3 +29,6 @@ This repo contains the Arduino Uno R3 code along with Pyothn graphical visualisa
    1. The plot also shows the minimum, maximu, mean value lines.
    2. The plot provide dotted 25% and 75% quartile lines.
 
+![MH-Z19BPython-Uno-Plot](https://github.com/ParthaPRay/MH-Z19B-Python-Uno/assets/1689639/b1c58fdf-f2eb-47c3-bb67-9b96db6e2dc7)
+
+
