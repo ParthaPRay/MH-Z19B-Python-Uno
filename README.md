@@ -34,3 +34,4 @@ This repo contains the Arduino Uno R3 code along with Pyothn graphical visualisa
 # References
 1. https://erriez.github.io/ErriezMHZ19B/index.html
 2. https://github.com/RobTillaart/MHZCO2
+3. https://arduino.steamedu123.com/entry/MH-Z19B-Carbon-Dioxide-Gas-Sensor
