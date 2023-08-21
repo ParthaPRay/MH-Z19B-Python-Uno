@@ -3,5 +3,10 @@ This repo contains the Arduino Uno R3 code along with Pyothn graphical visualisa
 
 | Arduino Uno R3  | MH-Z19B |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| 5V  | Red Wire  |
+| GND  | Black Wire  |
+| Digital 10  | Green Wire (Tx)  |
+| Digital 11  | Blue Wire (Rx)  |
+| NC            | Yellow Wire  |
+| NC            | White Wire  |
+| NC (Analog Out V0)            | Brown Wire   |
