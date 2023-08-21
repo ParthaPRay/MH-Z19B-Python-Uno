@@ -31,4 +31,6 @@ This repo contains the Arduino Uno R3 code along with Pyothn graphical visualisa
 
 ![MH-Z19BPython-Uno-Plot](https://github.com/ParthaPRay/MH-Z19B-Python-Uno/assets/1689639/b1c58fdf-f2eb-47c3-bb67-9b96db6e2dc7)
 
-
+# References
+1. https://erriez.github.io/ErriezMHZ19B/index.html
+2. https://github.com/RobTillaart/MHZCO2
