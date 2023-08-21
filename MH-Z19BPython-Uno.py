@@ -1,6 +1,3 @@
-# Partha Pratim Ray
-# Date: 21, August, 2023
-
 import serial
 import matplotlib.pyplot as plt
 from collections import deque
@@ -11,8 +8,8 @@ from datetime import datetime  # Import the datetime module
 ser = serial.Serial('/dev/ttyACM0', 115200)
 
 # Variables
-CO2_values = deque(maxlen=100)  # Stores last 100 readings for visualization
-time_values = deque(maxlen=100)  # Stores timestamp
+CO2_values = deque()  # Stores last 100 readings for visualization
+time_values = deque()  # Stores timestamp
 
 # Set up the figure and axis
 fig, ax = plt.subplots(figsize=(12, 7))
